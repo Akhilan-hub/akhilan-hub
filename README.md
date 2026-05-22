@@ -6,8 +6,7 @@ B.E. CSE Student (2026) | Full Stack Developer | Internship Seeker
 
 ## About Me
 
-I'm a passionate and hardworking developer from Tamil Nadu, currently learning full stack development using React, Flask, and MongoDB.  
-I enjoy building real-time web applications and solving real-world problems through code. I aim to join internship programs like Zoho to apply and grow my skills.
+Full Stack Developer with good knowledge of Python, SQL, HTML, and CSS. Passionate about building real-world web applications and continuously improving development skills. Developed a Government Scheme Recommender project using AI tools as a learning project. Currently exploring Flask and React as part of becoming a complete Full Stack Developer.
 
 ---
 
