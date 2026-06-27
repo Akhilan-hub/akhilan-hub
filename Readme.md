@@ -34,7 +34,7 @@ An AI-powered agent that helps users solve and understand LeetCode problems thro
 
 ## 🎯 Areas of Interest
 - Full Stack Development
-- Backend Development
+- Web Development
 - Problem Solving
 
 ---
