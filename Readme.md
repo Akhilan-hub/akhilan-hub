@@ -26,8 +26,9 @@ A full-stack application for managing student records and related operations.
 ### 🏛 Government Scheme Eligibility Checker
 A college project that helps users identify eligible government schemes based on their details.
 
-### 🤖 AI Integrated Preparation Tool
-An AI-powered platform designed to assist students with preparation and learning.
+### 🤖 AI LeetCode Assistant
+
+An AI-powered agent that helps users solve and understand LeetCode problems through intelligent problem analysis, optimized approaches, code reviews, dry runs, complexity analysis, and learning history.
 
 ---
 
